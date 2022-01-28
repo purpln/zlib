@@ -1,2 +1,2 @@
 #pragma once
-#include <ApplicationServices/ApplicationServices.h>
+#include <zlib.h>

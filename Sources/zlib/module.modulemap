@@ -1,5 +1,5 @@
 module zlib [system] {
-    umbrella header "zlib.h"
-    module * { export * }
+    header "zlib.h"
+    link "zlib"
     export *
 }
